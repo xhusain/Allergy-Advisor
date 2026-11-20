@@ -1,6 +1,6 @@
-# Allergy Advisor MERN
+# Allergy Advisor 
 
-Allergy Advisor is a full-stack web application that helps users record allergy profiles, check foods and ingredient lists, review previous checks, and read weather-related allergy guidance.
+Allergy Advisor is a full-stack web application (MERN) that helps users record allergy profiles, check foods and ingredient lists, review previous checks, and read weather-related allergy guidance.
 
 > **Safety disclaimer:** This application provides general educational guidance only. It is not medical advice and must not replace product-label checks, a clinician, or emergency services. Users with severe allergies should follow their prescribed emergency plan.
 
